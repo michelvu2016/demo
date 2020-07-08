@@ -15,6 +15,11 @@ class NameTag {
 		this.fullName = fullName;
 	}
 
+	public void setEmployeeNumber() {
+		this.employeeNumber = employeeNumber;
+
+	}
+
 
 
 }
